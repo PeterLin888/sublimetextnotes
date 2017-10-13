@@ -1,0 +1,4 @@
+== Packages-path
+
+Packages-path-win
+"C:\Users\name\AppData\Roaming\Sublime Text 3\Packages"

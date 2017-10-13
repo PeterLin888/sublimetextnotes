@@ -2,6 +2,18 @@
 
 Sublime Text Notes
 
-== Sublime Text Notes
+== Sublime Text Packages
 
-Sublime Text Notes
+Packages-path
+<<Packages/Packages-path.adoc#,Packages-path>>
+
+== Linux settings
+
+Path sublime-linux
+
+sublime_text.desktop.path.txt
+link:sublime-linux/centos7/usr/share/applications/sublime_text.desktop.path.txt[sublime_text.desktop.path.txt]
+
+subl
+ link:sublime-linux/centos7/usr/bin/subl[subl]
+ link:sublime-linux/centos7/bin/subl[subl]
